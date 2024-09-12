@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=RmSDa0nJd2o&list=PLV9zd3otBRt7jmXvwCkmvJ8dH5tR_20c0&index=2
+
+#코딩레시피
+
 # 개발환경
 1. IDE: IntelliJ IDEA Community
 2. Spring Boot 2.6.13 
